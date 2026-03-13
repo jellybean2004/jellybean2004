@@ -19,7 +19,7 @@ I am a Physics undergraduate at the University of Warwick 🎓, currently undert
 - Systematic debugging and testing 🛠️
 
 ## 🚀 Featured projects
-- [SasView](https://github.com/SasView/sasview) 🔗 — Open-source small-angle scattering analysis softw
+- [SasView](https://github.com/SasView/sasview) 🔗 — Open-source small-angle scattering analysis software
 - [my digital garden](www.sujaya.com.np/) 🪻— Personal knowledge base
 
 ## 📫 Contact & links
